@@ -22,7 +22,7 @@ N \
 I1 F1 H1 \
 I2 F2 H2 \
 … \
-IN FN HN \
+IN FN HN
 
 La primera línea, N, indica la cantidad de edificios que se recibirán. Las siguientes N líneas contiene tres números Ii Fi Hi representando a la tripleta (Ii,Fi,Hi) que describe al edificio i, es decir, siendo Ii su coordenada inicial, Fi la final y Hi su altura.
 
