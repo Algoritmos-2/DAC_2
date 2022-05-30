@@ -18,11 +18,11 @@ La solución retornada debe ser una secuencia de tuplas. Cada tupla representa u
 Inicialmente, convendremos que la silueta comienza con h0=0. La primera tira de la secuencia es (0,4). Esto quiere decir que el vector comienza desde (0,0) y va hasta (0,4). En la segunda tira, tenemos (1,6). Como la altura actual de la silueta h1=4 (punto anterior), ahora la nueva tira va desde (1,4) hasta (1,6). Y así, sucesivamente.
 
 ## Formato de entrada
-N
-I1 F1 H1
-I2 F2 H2
-…
-IN FN HN
+N\
+I1 F1 H1\
+I2 F2 H2\
+…\
+IN FN HN\
 
 La primera línea, N, indica la cantidad de edificios que se recibirán. Las siguientes N líneas contiene tres números Ii Fi Hi representando a la tripleta (Ii,Fi,Hi) que describe al edificio i, es decir, siendo Ii su coordenada inicial, Fi la final y Hi su altura.
 
